@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="text">
+        <h4>Olá, espero que se encontre bem.</h4>
+        <p>Segue algumas informações da IBOVESPA no mercado de ações desde 2021</p>
+        <p>Em anexo, o gráfico que representa a evolução do preço desse ativo.</p><br>
+        <p>Att,</p>
+        <h5>Email: lipe.q.soouza@gmail.com</h5>
+        <h5>Instagram: <a href="https://instagram.com/felipefelps.19">felipefelps.19</a></h5>
+    </div>
+    <div class="padd">
+        <div class="text">
+            <img src="https://i.pinimg.com/originals/7d/23/c6/7d23c66d29b29b773dae07ca1f9aea56.png" alt="Friagem" class="img">
+            <p>Created by: <a href="https://www.github.com/FerelpsFelps" target="_blank">Felipe</a> </p>
+        </div>
+    </div>
+</body>
+</html>
